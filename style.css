@@ -1,0 +1,64 @@
+
+
+
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(93, 166, 194);
+    text-align: center;
+font-size: 2rem;} 
+ 
+title {1Q2
+    width: 50rem;
+    height: 59rem;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.navbar{
+    background-color: rgb(111, 208, 208);
+    padding: 20px;
+    position: sticky;
+  top: 0%;
+    word-spacing: 100%;
+}
+
+.links{
+    display: flex;
+    justify-content: space-between;
+}
+.links :hover{
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 20pc;
+}
+
+#about{
+    height: 100vh;
+    width: 100vw;
+    margin: 50px;
+}
+#contact{
+    height: 100vh;
+    width: 100vw;
+    margin: 50px;
+}
+#skills{
+    height: 100vh;
+    width: 100vw;
+    margin: 50px;
+}
+
+#Education{
+    height: 100vh;
+    width: 100vw;
+    margin: 50px;
+
+}
+img{
+    border-radius: 10rem;
+
+}
